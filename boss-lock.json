@@ -9,6 +9,14 @@
 			"artifacts": {},
 			"failed": false,
 			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.0.6",
+			"hash": "8a9fbc30fe30e276c369aa02adc425e0",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
 		}
 	}
 }
