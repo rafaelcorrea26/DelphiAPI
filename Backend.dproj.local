@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/06 10:56:04.000.040,=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/30 09:52:47.000.530,C:\Users\vagne\Documents\DelphiAPI\Project2.dproj=C:\Users\vagne\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2020/09/30 09:53:12.000.472,C:\Users\vagne\Documents\DelphiAPI\Backend.dproj=C:\Users\vagne\Documents\DelphiAPI\Project2.dproj</Transaction>
+    <Transaction>2020/10/01 08:40:30.000.872,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Unit1.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.367,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Conexao.Factory.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.609,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.RestDW.Conexao.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.412,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Conexao.Interfaces.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.659,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.RestDW.Query.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.505,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Firedac.Query.pas</Transaction>
+    <Transaction>2020/10/01 09:02:52.000.458,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Firedac.Conexao.pas</Transaction>
+    <Transaction>2020/10/01 09:03:16.000.663,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.RestDW.Conexao.pas=</Transaction>
+    <Transaction>2020/10/01 09:03:21.000.407,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.RestDW.Query.pas=</Transaction>
+    <Transaction>2020/10/01 09:04:53.000.457,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Firedac.Query.pas=</Transaction>
+    <Transaction>2020/10/01 09:04:55.000.440,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Firedac.Conexao.pas=</Transaction>
+    <Transaction>2020/10/01 09:04:56.000.937,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Conexao.Factory.pas=</Transaction>
+    <Transaction>2020/10/01 09:04:56.000.881,C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\DUp20.Model.Conexao.Interfaces.pas=</Transaction>
+    <Transaction>2020/10/01 09:05:58.000.380,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\Backend.Model.Conexao.Interfaces.pas</Transaction>
+    <Transaction>2020/10/01 09:05:58.000.415,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\Backend.Model.Firedac.Conexao.pas</Transaction>
+    <Transaction>2020/10/01 09:05:58.000.446,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\Backend.Model.Firedac.Query.pas</Transaction>
+    <Transaction>2020/10/01 09:05:58.000.334,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Model\Backend.Model.Conexao.Factory.pas</Transaction>
+    <Transaction>2020/10/01 10:08:24.000.015,=C:\Users\vagne\Documents\Delphi\DelphiAPI\Unit1.pas</Transaction>
+    <Transaction>2020/10/01 10:09:48.000.051,C:\Users\vagne\Documents\Delphi\DelphiAPI\Unit1.pas=C:\Users\vagne\Documents\Delphi\DelphiAPI\Controller\uController.Produtos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
