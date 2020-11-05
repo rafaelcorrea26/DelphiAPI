@@ -3,13 +3,13 @@ unit Backend.Model.Firedac.Conexao;
 interface
 
 uses
-  Backend.Model.Conexao.Interfaces, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+   FireDAC.Stan.Intf, FireDAC.Stan.Option,
   FireDAC.Stan.Error, FireDAC.UI.Intf, FireDAC.Phys.Intf, FireDAC.Stan.Def,
   FireDAC.Stan.Pool, FireDAC.Stan.Async, FireDAC.Phys, FireDAC.Phys.FB,
   FireDAC.Phys.FBDef, FireDAC.VCLUI.Wait, Data.DB, FireDAC.Comp.Client, Vcl.Dialogs,Vcl.Forms;
 
 Type
-  TModelFiredacConexao = class(TInterfacedObject, iModelConexao)
+  TModelFiredacConexao = class(TInterfacedObject)
     private
       FConexao : TFDConnection;
       function DevolveCaminhoBanco:string;
@@ -18,7 +18,6 @@ Type
     public
       constructor Create;
       destructor Destroy; override;
-      class function New : iModelConexao;
       function Connection : TCustomConnection;
   end;
 
@@ -101,9 +100,6 @@ begin
   Result := cDir;
 end;
 
-class function TModelFiredacConexao.New: iModelConexao;
-begin
-  Result := Self.Create;
-end;
+
 
 end.

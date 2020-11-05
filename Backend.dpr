@@ -8,8 +8,6 @@ uses
   Horse.Jhonson,
   System.JSON,
   System.sysUtils,
-  Backend.Model.Conexao.Factory in 'Model\Backend.Model.Conexao.Factory.pas',
-  Backend.Model.Conexao.Interfaces in 'Model\Backend.Model.Conexao.Interfaces.pas',
   Backend.Model.Firedac.Conexao in 'Model\Backend.Model.Firedac.Conexao.pas',
   Backend.Model.Firedac.Query in 'Model\Backend.Model.Firedac.Query.pas',
   uController.Produtos in 'Controller\uController.Produtos.pas';
